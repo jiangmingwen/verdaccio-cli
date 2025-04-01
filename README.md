@@ -1,0 +1,2 @@
+# verdaccio-cli
+verdaccio cli
